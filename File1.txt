@@ -1,0 +1,6 @@
+4 1000
+color string [red, yellow, green]
+quantity int (10,135)
+value$ float (50000.96,90000.50)
+car_brand string [fiat, ford, renault, toyota, honda, mercedes, BMW, Lucid]
+day_release date (01-01-1994, 06-07-2008)
